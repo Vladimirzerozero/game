@@ -172,4 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
-hh_database
+# Data files
+data/hh_database.csv
+*.csv
+*.xlsx
+*.json
